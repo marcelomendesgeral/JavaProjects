@@ -11,7 +11,6 @@ INDEX VERSION 1.130+C:\Users\jzkzv1\eclipse-workspace\.metadata\.plugins\org.ecl
 2365264807.index
 664140773.index
 575557243.index
-2868695985.index
 289811613.index
 1063643129.index
 2509800163.index
